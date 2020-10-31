@@ -1,12 +1,6 @@
-update branch master
-this is branch 1
-this is branch 1.2
-<<<<<<< HEAD
-this is branch 1.3 <TH>
-this is branch 1.4 <TH>
-this is branch 1.5 <TH>
-this is branch 333333
-
+test cherry pick branch test revert test cherry pick branch test revert
+test cherry pick
 this is branch 333333
 dfddfdfdfdfdfdf
  conflickdfdfddfdfd
+test resolve conflict by rebase nhanh test_cherry_pick
