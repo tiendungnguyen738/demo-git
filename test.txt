@@ -4,3 +4,9 @@ this is branch 333333
 dfddfdfdfdfdfdf
  conflickdfdfddfdfd
 test resolve conflict by rebase nhanh test_cherry_pick
+test cherry pickdddddddddd branch test revert test cherry pick branch test revert
+test cherry pickddd
+this is branch 333333dd
+dfddfdfdfdfdfdfdddd
+ conflickdfdfddfdfdddd
+test resolve conflict dddddsssby rebase nhanh test_cherry_pick
